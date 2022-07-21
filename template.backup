@@ -11,7 +11,7 @@ If (A_Hour>############# && A_Hour<@@@@@@@@@@@@@) ; Start of light hours and end
 	RegWrite,Reg_Dword,HKCU,SOFTWARE\Microsoft\Windows\CurrentVersion\Themes\Personalize,AppsUseLightTheme   ,1
 	run,RUNDLL32.EXE USER32.DLL`, UpdatePerUserSystemParameters `,2 `,True
 	
-	sleep 7000000
+	sleep 33333
 }
 Else
 {
@@ -20,8 +20,8 @@ Else
 	RegWrite,Reg_Dword,HKCU,SOFTWARE\Microsoft\Windows\CurrentVersion\Themes\Personalize,AppsUseLightTheme   ,0
 	run,RUNDLL32.EXE USER32.DLL`, UpdatePerUserSystemParameters `,2 `,True
 
-	sleep 6000000
+	sleep 33333
 }
-Sleep 2000000
+Sleep 133333
 }
 Return
