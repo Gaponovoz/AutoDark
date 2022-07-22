@@ -1,6 +1,10 @@
 # Automatic Dark Mode Win10+ LITE
 
-A very lightweight and simple app that creates a schedule in your PC to automatically turn on dark/light theme on selected hours.
+## A very lightweight and simple app that creates a schedule in your PC to automatically turn on dark/light theme on selected hours.
+
+![](https://pandao.github.io/editor.md/examples/images/2.jpg)
+![](https://pandao.github.io/editor.md/examples/images/2.jpg)
+![](https://pandao.github.io/editor.md/examples/images/2.jpg)
 
 How to compile:
 1. Compile Ahk scripts without changing names.
