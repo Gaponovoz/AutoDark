@@ -2,9 +2,9 @@
 
 ## A very lightweight and simple app that creates a schedule in your PC to automatically turn on dark/light theme on selected hours.
 
-![](https://pandao.github.io/editor.md/examples/images/2.jpg)
-![](https://pandao.github.io/editor.md/examples/images/2.jpg)
-![](https://pandao.github.io/editor.md/examples/images/2.jpg)
+![](https://github.com/Gaponovoz/AutoDark/blob/main/1.jpg)
+![](https://github.com/Gaponovoz/AutoDark/blob/main/2.jpg)
+![](https://github.com/Gaponovoz/AutoDark/blob/main/3.jpg)
 
 How to compile:
 1. Compile Ahk scripts without changing names.
